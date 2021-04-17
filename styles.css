@@ -5,3 +5,19 @@ root {
   padding: 0;
   box-sizing: border-box;
 }
+html {
+  font-size: 62.5%;
+}
+.name {
+  display: flex;
+  justify-content: center;
+}
+.name h1 {
+  font-size: 3.6rem;
+  font-family: "Dancing Script", cursive;
+}
+.info {
+  display: flex;
+  justify-content: space-between;
+  font-size: 1.6rem;
+}
